@@ -1,0 +1,238 @@
+{
+	"1": {
+		"goals": [{
+			"id": 1,
+			"title": "Continue to take all medications as prescribed",
+			"conditions": ["Albuminuria", "Chronic Kidney Disease Stage 4", "Diabetic Nephropathy", "Essential Hypertension", "Proteinuria"],
+			"tasks": [],
+			"tracker": {
+				"title": "Yesterday I took all my medications",
+				"actions": ["Yes", "Not sure", "No"],
+				"week": [1, 1, 1, 2, 0, 0, 0]
+			}
+		}, {
+			"id": 2,
+			"title": "Weight loss discussed, different methods of weight loss explained, education about calorie counting and healthy diet pyramid discussed",
+			"conditions": ["Diabetes Mellitus"],
+			"tasks": [],
+			"tracker": {
+				"title": "Compared with yesterday, today I feel like my diet is",
+				"actions": ["Better", "Not sure", "Worse"],
+				"week": [2, 2, 2, 2, 0, 0, 0]
+			}
+		}]
+	},
+	"2": {
+		"goals": []
+	},
+	"3": {
+		"goals": []
+	},
+	"4": {
+		"goals": []
+	},
+	"6": {
+		"goals": []
+	},
+	"7": {
+		"goals": []
+	},
+	"8": {
+		"goals": [{
+			"id": 3,
+			"title": "Limit your intake of alcohol",
+			"conditions": ["Benign Hypertension", "Coronary Artery Disease"],
+			"tasks": [],
+			"tracker": {
+				"title": "Today I drunk less alcohol that yesterday",
+				"actions": ["Yes", "Not sure", "No"],
+				"week": [0, 0, 0, 0, 0, 0, 0]
+			}
+		}, {
+			"id": 4,
+			"title": "Reduce stress as much as possible",
+			"conditions": ["Benign Hypertension", "Coronary Artery Disease"],
+			"tasks": ["Practice muscle relaxation", "Practice deep breathing"],
+			"tracker": {
+				"title": "Compared with yesterday, today I feel like my stress is:",
+				"actions": ["Lower", "Similar", "Higher"],
+				"week": [0, 0, 0, 0, 0, 0, 0]
+			}
+		}, {
+			"id": 5,
+			"title": "Quit smoking",
+			"conditions": ["Benign Hypertension"],
+			"tasks": [],
+			"tracker": {
+				"title": "Today I smoked less than yesterday",
+				"actions": ["Yes", "Not sure", "No"],
+				"week": [0, 0, 0, 0, 0, 0, 0]
+			}
+		}, {
+			"id": 6,
+			"title": "Loose weight",
+			"conditions": ["Benign Hypertension"],
+			"tasks": [],
+			"tracker": {
+				"title": "Weigh yourself daily",
+				"actions": ["Add weight measurement"],
+				"week": [0, 0, 0, 0, 0, 0, 0]
+			}
+		}, {
+			"id": 7,
+			"title": "Reduce Sodium Intake",
+			"conditions": ["Edema"],
+			"tasks": ["Don't eat packed foods, canned foods, lunch meats, cheeses or soups", "Use a salt substitute"],
+			"tracker": {
+				"title": "Compared with yesterday, today I feel like my sodium intake is:",
+				"actions": ["Lower", "Similar", "Higher"],
+				"week": [0, 0, 0, 0, 0, 0, 0]
+			}
+		}, {
+			"id": 8,
+			"title": "Engage in cardiovascular exercise for 45 minutes, 5 days a week",
+			"conditions": ["Hyperlipidemia"],
+			"tasks": ["Don't eat packed foods, canned foods, lunch meats, cheeses or soups", "Use a salt substitute"],
+			"tracker": {
+				"title": "Compared with yesterday, today I feel like my physical activity is:",
+				"actions": ["Lower", "Similar", "Higher"],
+				"week": [0, 0, 0, 0, 0, 0, 0]
+			}
+		}, {
+			"id": 9,
+			"title": "Introduce a diet low in saturated fat and cholesterol. Reduce intake of red meats, cheeses, fried foods, shrimp, lobster, butter, pork, egg yolks, and desserts.",
+			"conditions": [],
+			"tasks": [],
+			"tracker": {
+				"title": "Compared with yesterday, today I feel like my diet is:",
+				"actions": ["More healthy", "Not sure", "Less healthy"],
+				"week": [0, 0, 0, 0, 0, 0, 0]
+			}
+		}]
+	},
+	"9": {
+		"goals": []
+	},
+	"5": {
+		"goals": [{
+			"id": 10,
+			"title": "Manage Stress",
+			"conditions": ["Essential Hypertension"],
+			"tasks": [],
+			"tracker": {
+				"title": "Compared with yesterday, today I feel like my stress is:",
+				"actions": ["Lower", "Similar", "Higher"],
+				"week": [0, 0, 0, 0, 0, 0, 0]
+			}
+		}, {
+			"id": 11,
+			"title": "Increase physical activity if approved by your physician",
+			"conditions": ["Essential Hypertension"],
+			"tasks": [],
+			"tracker": {
+				"title": "Compared with yesterday, today I feel like my physical activity is:",
+				"actions": ["Lower", "Similar", "Higher"],
+				"week": [0, 0, 0, 0, 0, 0, 0]
+			}
+		}, {
+			"id": 12,
+			"title": "Obtain or maintain a healthy weight",
+			"conditions": ["Essential Hypertension"],
+			"tasks": [],
+			"tracker": {
+				"measurement": {
+					"name": "Weight",
+					"value": "170",
+					"unit": "lbs",
+					"date": ""
+				},
+				"actions": ["Add weight measurement"],
+				"week": [0, 0, 0, 0, 0, 0, 0]
+			}
+		}, {
+			"id": 13,
+			"title": "Eat a healthy diet",
+			"conditions": ["Essential Hypertension"],
+			"tasks": [],
+			"tracker": {
+				"title": "Today I feel like my diet is:",
+				"actions": ["Healthy", "Not sure", "Not healthy"],
+				"week": [1, 1, 1, 1, 1, 1, 0]
+			}
+		}, {
+			"id": 14,
+			"title": "Keep your blood pressure and cholesterol under control.",
+			"conditions": ["Non-Insulin Dependent Diabetes"],
+			"tasks": [
+				"Check your feet daily for any possible sores or problem areas",
+				"Take care of your teeth"
+			],
+			"tracker": {
+				"measurement": {
+					"name": "Blood Pressure",
+					"value": "139/95",
+					"unit": "mm Hg",
+					"date": "12/13/2015 15:45"
+				},
+				"actions": ["Add blood pressure measurement"],
+				"week": [1, 1, 1, 1, 1, 1, 0]
+			}
+		}]
+	},
+	"10": {
+		"goals": [{
+			"id": 15,
+			"title": "Increase physical activity if approved by your physician - Regular physical activity can help lower your blood pressure, manage stress, reduce your risk of several health problems and keep your weight under control",
+			"conditions": [],
+			"tasks": [],
+			"tracker": {
+				"title": "Compared with yesterday, today I feel like my physical activity is:",
+				"actions": ["Lower", "Similar", "Higher"],
+				"week": [0, 0, 0, 0, 0, 0, 0]
+			}
+		}, {
+			"id": 16,
+			"title": "Eat a healthy diet based on fruits, vegetables, and whole grains to help you maintain your strength",
+			"conditions": [],
+			"tasks": [],
+			"tracker": {
+				"title": "Compared with yesterday, today I feel like my diet is:",
+				"actions": ["Healthy", "Not sure", "Unhealthy"],
+				"week": [0, 0, 0, 0, 0, 0, 0]
+			}
+		}, {
+			"id": 17,
+			"title": "Exercise and diet regularly",
+			"conditions": [],
+			"tasks": [],
+			"tracker": {
+				"title": "Compared with yesterday, today I feel like my exercise and diet is:",
+				"actions": ["Better", "Not sure", "Worse"],
+				"week": [0, 0, 0, 0, 0, 0, 0]
+			}
+		}]
+	},
+	"11": {
+		"goals": [{
+			"id": 18,
+			"title": "Exercise regularly if approved by your physician",
+			"conditions": [],
+			"tasks": [],
+			"tracker": {
+				"title": "Compared with yesterday, today I feel like my physical activity is:",
+				"actions": ["Lower", "Similar", "Higher"],
+				"week": [0, 0, 0, 0, 0, 0, 0]
+			}
+		}, {
+			"id": 19,
+			"title": "Eat a healthy diet including fruits, vegetables, whole grains and lean proteins",
+			"conditions": [],
+			"tasks": [],
+			"tracker": {
+				"title": "Compared with yesterday, today I feel like my diet is:",
+				"actions": ["Healthy", "Not sure", "Unhealthy"],
+				"week": [0, 0, 0, 0, 0, 0, 0]
+			}
+		}]
+	}
+}

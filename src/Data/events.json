@@ -1,0 +1,129 @@
+{
+	"1": {
+		"events": [{
+			"id": 1,
+			"type": "Appointment",
+			"form": "Office Visit",
+			"state": "Completed",
+			"details": {
+				"date": "8/07/2015",
+				"time": "11:30 am",
+				"address": "26 Broadway, New York, NY 10004"
+			},
+			"purpose": "Recheck of hypertension, recheck of hyperlipidemia, recheck of new onset diabetes type II, follow up for laboratory tests, and transition into care.",
+			"related": {
+				"conditions": ["Diabetes Mellitus", "Diabetic Nephropathy", "Elevated Homocysteine", "Hyperlipidemia"],
+				"medication": []
+			},
+			"careteam": {
+				"type": "Provider",
+				"providerId": 2,
+				"notes": ""
+			}
+		}, {
+			"id": 2,
+			"type": "Appointment",
+			"form": "Office Visit",
+			"state": "Reminder",
+			"details": {
+				"date": "8/12/2016",
+				"time": "",
+				"address": ""
+			},
+			"channel": "Office Visit",
+			"purpose": "Schedule Annual Wellness Visit for 2016",
+			"related": {
+				"conditions": [],
+				"medication": []
+			},
+			"careteam": {}
+		}]
+	},
+	"2": {
+		"events": [{
+			"id": 3,
+			"type": "Care Call",
+			"form": "Phone Consultation",
+			"state": "Completed",
+			"details": {
+				"date": "12/14/2015",
+				"time": "",
+				"address": ""
+			},
+			"purpose": "Monthly follow up of your health & conditions",
+			"related": {
+				"conditions": [],
+				"medication": []
+			},
+			"careteam": {
+				"type": "CSR",
+				"csrId": 1,
+				"notes": "Member states she is doing pretty well, has an appt. on 1/4/2015 for ov with Dr. Zloto, states she has hx. of falls, fell in France 4 yrs ago, fell in Wisconsin 3 yrs ago and another fall in her backyard about 6 months ago in which she injured her arm but states no broken bones, feels that the forteo helped her. She no longer is on that medication, takes prolia injections once every 6 months. She states she has minor aches and pains and may on occasion take an advil for pain but states not often as she doesn't like to take anything unless she absolutely has to. States she has 4 dtrs and they are all nurses, all are in Florida and she and spouse have much support. She denies any health concerns or issues at this time."
+			}
+		}, {
+			"id": 4,
+			"type": "Appointment",
+			"form": "Office Visit",
+			"state": "Completed",
+			"details": {
+				"date": "12/14/2015",
+				"time": "2:30 pm",
+				"address": "123 Beaver Street, New York, NY"
+			},
+			"purpose": "Presents for evaluation of the following problems rash and diabetes.",
+			"related": {
+				"conditions": ["Type II Diabetes Mellitus", "Overweight", "Dermatitis"],
+				"medication": ["Temazepam", "Synthroid", "Metformin Hydrochloride", "Triamcinolone Acetonide"]
+			},
+			"careteam": {
+				"type": "Provider",
+				"providerId": 4,
+				"notes": "ppt. per member \nASSESSMENT: \n1) Body Mass Index 26.0-26.9, adult 2) Type 2 diabetes\n3) Dermatitis\n- Glycated hemoglobin A1c.\nPLAN:\n- Reviewed labs with patient and all questions addressed.\n- Continue current medication(s) Refill(s) provided.\n- Start Triamcinolone.\n- Most Recent Advance Directives Done Elsewhere on 10/23/13.\nHealth Maintenance:\n- Diet Counseling.\n- Exercise Counsel. Stressed the importance of regular exercise."
+			}
+		}]
+	},
+	"3": {
+		"events": [{
+			"id": 5,
+			"type": "Care Call",
+			"form": "Phone Consultation",
+			"state": "Completed",
+			"details": {
+				"date": "11/20/2015",
+				"time": "",
+				"address": ""
+			},
+			"purpose": "Monthly follow up of your health & conditions",
+			"related": {
+				"conditions": [],
+				"medication": []
+			},
+			"careteam": {
+				"type": "CSR",
+				"csrId": 1,
+				"notes": "Care Call completed - member states there is no changes in medications or any other Doctors"
+			}
+
+		}, {
+			"id": 6,
+			"type": "Appointment",
+			"form": "Office Visit",
+			"state": "Completed",
+			"details": {
+				"date": "12/14/2015",
+				"time": "1:30 pm",
+				"address": "123 Beaver Street, New York, NY"
+			},
+			"purpose": "",
+			"related": {
+				"conditions": ["Chronic Obstructive Pulmonary Disease", "Hypothyroidism", "Diabetes Mellitus Type 2 w/ Neurological Manifestations", "Osteoarthritis Of Knee", "Lower Back Pain", "Hyperlipidemia", "Essential Hypertension", "Chronic Kidney Disease Stage 4", "Moderate Smoker", "Mixed Anxiety And Depressive Disorder", "Mild Cognitive Impairment", "Preglaucoma", "Gait Disturbance"],
+				"medication": ["Amitriptyline Hydrochloride", "Percocet"]
+			},
+			"careteam": {
+				"type": "Provider",
+				"providerId": 5,
+				"notes": "DIAGNOSES:\n- Osteoarthritis of Knee\n- Lower Back Pain\n- Diabetes Mellitus Type 2 with Neurological Manifestations\n- Hyperlipidemia\n- Essential Hypertension\n- Hypothyroidism\n- Chronic Kidney Disease Stage 4\n- Moderate Smoker (20 or less per day)\n- Chronic Obstructive Pulmonary Disease\n- Mixed Anxiety and Depressive Disorder\nPLAN:\n- Return to the clinic in 1 month regarding pain management.\n- Also keep her regular scheduled appointment.\n- Be signed up for CareSync.\nPROCEDURES TO BE SCHEDULED:\n- Cognitive test regarding mild cognitive impairment.\n- Tonometry regarding preglaucoma.\n- Balance test regarding gait disturbance.\nPROCEDURES TO BE DONE TODAY:\n- Blood glucose check regarding diabetes mellitus.\n- Urine toxicology.\nIMAGE ORDERS:\n- Mammogram regarding screen. - DEXA scan regarding screen.\nREFERRAL:\n- Dr. Levine regarding a colonoscopy.\nMEDICATIONS:\n- Amitriptyline 100 mg take 1 tablet at bedtime daily.\n- Oxycodone/Acetaminophen 5-325 mg take 1 tablet every 4 hours as needed."
+			}
+		}]
+	}
+}

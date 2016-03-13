@@ -1,0 +1,51 @@
+.provider {
+  position: relative;
+}
+
+.photo {
+  line-height: 3em;
+  border-radius: 3em;
+  width: 3em;
+  height: 3em;
+  min-width: 3em;
+  background: #5DC8FB;
+  color: white;
+  font-size: bold;
+  text-align: center;
+  margin-right: 0.5em;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: -1.5em;
+  left: 1em;
+}
+
+.details {
+  padding: 1em;
+  padding-top: 2em;
+  margin-top: 2em;
+  background: #F3F3F3;
+}
+
+.compact {
+  display: flex;
+  align-items: center;
+}
+
+.compact div, .compact img {
+  position: static;
+}
+
+.compact .details {
+  padding: 0;
+  margin-top: 0;
+  /*background: white;*/
+}
+
+.name {
+  font-weight: bold;
+}
+
+.name, .role {
+  margin: 0.25em;
+}

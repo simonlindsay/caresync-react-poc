@@ -1,0 +1,110 @@
+{
+	"1": {
+		"careteam-members": [{
+			"type": "CommunityProvider",
+			"providerId": 1
+		}, {
+			"type": "BillingProvider",
+			"providerId": 2
+		}, {
+			"type": "CommunityProvider",
+			"providerId": 3
+		}, {
+			"type": "Caresync",
+			"csrId": 1
+		}]
+	},
+	"2": {
+		"careteam-members": [{
+			"type": "BillingProvider",
+			"providerId": 4
+		}, {
+			"type": "Caresync",
+			"csrId": 1
+		}]
+	},
+	"3": {
+		"careteam-members": [{
+			"type": "BillingProvider",
+			"providerId": 5
+		}, {
+			"type": "Caresync",
+			"csrId": 1
+		}]
+	},
+	"4": {
+		"careteam-members": [{
+			"type": "BillingProvider",
+			"providerId": 6
+		}, {
+			"type": "CommunityProvider",
+			"providerId": 7
+		}, {
+			"type": "Caresync",
+			"csrId": 1
+		}]
+	},
+	"5": {
+		"careteam-members": [{
+			"type": "BillingProvider",
+			"providerId": 8
+		}, {
+			"type": "Caresync",
+			"csrId": 1
+		}]
+	},
+	"6": {
+		"careteam-members": [{
+			"type": "BillingProvider",
+			"providerId": 9
+		}, {
+			"type": "Caresync",
+			"csrId": 1
+		}]
+	},
+	"7": {
+		"careteam-members": [{
+			"type": "BillingProvider",
+			"providerId": 10
+		}, {
+			"type": "Caresync",
+			"csrId": 1
+		}]
+	},
+	"8": {
+		"careteam-members": [{
+			"type": "BillingProvider",
+			"providerId": 11
+		}, {
+			"type": "Caresync",
+			"csrId": 1
+		}]
+	},
+	"9": {
+		"careteam-members": [{
+			"type": "BillingProvider",
+			"providerId": 12
+		}, {
+			"type": "Caresync",
+			"csrId": 1
+		}]
+	},
+	"10": {
+		"careteam-members": [{
+			"type": "BillingProvider",
+			"providerId": 13
+		}, {
+			"type": "Caresync",
+			"csrId": 1
+		}]
+	},
+	"11": {
+		"careteam-members": [{
+			"type": "BillingProvider",
+			"providerId": 14
+		}, {
+			"type": "Caresync",
+			"csrId": 1
+		}]
+	}
+}

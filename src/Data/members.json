@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Harold Sakata",
+    "gender": "M",
+    "memberSince": "2/16/2015",
+    "dateOfBirth": "2/1/1947"
+  },
+  {
+    "id": 2,
+    "name": "Shirley Eaton",
+    "gender": "F",
+    "memberSince": "4/29/2015",
+    "dateOfBirth": "3/2/1932"
+  },
+  {
+    "id": 3,
+    "name": "Tania Mallet",
+    "gender": "F",
+    "memberSince": "7/1/2015",
+    "dateOfBirth": "4/10/1952"
+  },
+  {
+    "id": 4,
+    "name": "Lois Maxwell",
+    "gender": "F",
+    "memberSince": "10/11/2015",
+    "dateOfBirth": "5/11/1961"
+  },
+  {
+    "id": 5,
+    "name": "Nadja Regin",
+    "gender": "F",
+    "memberSince": "10/13/2015",
+    "dateOfBirth": "6/12/1969"
+  },
+  {
+    "id": 6,
+    "name": "Margaret Nolan",
+    "gender": "F",
+    "memberSince": "11/16/2015",
+    "dateOfBirth": "7/20/1932"
+  },
+  {
+    "id": 7,
+    "name": "Martin Benson",
+    "gender": "M",
+    "memberSince": "1/20/2016",
+    "dateOfBirth": "8/21/1945"
+  },
+  {
+    "id": 8,
+    "name": "Carmen Dene",
+    "gender": "F",
+    "memberSince": "9/30/2015",
+    "dateOfBirth": "9/22/1943"
+  },
+  {
+    "id": 9,
+    "name": "Tricia Muller",
+    "gender": "F",
+    "memberSince": "10/26/2015",
+    "dateOfBirth": "10/23/1948"
+  },
+  {
+    "id": 10,
+    "name": "Cec Linder",
+    "gender": "M",
+    "memberSince": "12/10/2015",
+    "dateOfBirth": "11/24/1946"
+  },
+  {
+    "id": 11,
+    "name": "Janette Rowsell",
+    "gender": "F",
+    "memberSince": "2/23/2016",
+    "dateOfBirth": "12/25/1952"
+  }
+]

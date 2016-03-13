@@ -1,0 +1,153 @@
+{
+	"1": {
+		"firstName": "Cristina",
+		"lastName": "Balsera",
+		"credentials": "M.D.",
+		"role": "Specialist",
+		"photoURL": "http://www.brandonkidneyclinic.com/Portals/777/web_content/content_images/DrBalsera.jpg",
+		"practice": {
+			"phone": "(813) 571-3777",
+			"name": "Kidney Diseases & High Blood Pressure Clinic",
+			"address": "510 Vonderburg Drive, Suite 208 Brandon, FL 33511"
+		}
+	},
+	"2": {
+		"firstName": "Michael Paul",
+		"lastName": "Gimness",
+		"credentials": "M.D.",
+		"role": "Family Medicine",
+		"practice": {
+			"phone": "(813) 567-5679",
+			"address": "1703 Thonotosassa Rd Ste A Family Medical Specialists Of Florida, Plc Plant City, FL 33563"
+		}
+	},
+	"3": {
+		"firstName": "Angelo",
+		"lastName": "Paola",
+		"credentials": "M.D., F.A.C.S.",
+		"role": "Specialist",
+		"practice": {
+			"phone": "(813) 685-0827",
+			"address": "1601 W Timberlane Dr Ste 500 Plant City, FL 33566"
+		}
+	},
+	"4": {
+		"firstName": "Alan",
+		"lastName": "Zloto",
+		"credentials": "D.O.",
+		"role": "Internal Medicine",
+		"practice": {
+			"phone": "(813) 290-0422",
+			"name": "Town and Country Internal Medicine",
+			"address": "6101 Webb Rd Ste 104 Tampa, FL 33615"
+		}
+	},
+	"5": {
+		"firstName": "Keith",
+		"lastName": "Gray",
+		"credentials": "M.D.",
+		"role": "Internal Medicine",
+		"practice": {
+			"phone": "(407) 423-9920",
+			"address": "100 W Gore St Ste 303 Orlando, FL 32806"
+		}
+	},
+	"6": {
+		"firstName": "Alan",
+		"lastName": "Hurty",
+		"credentials": "M.D.",
+		"role": "Internal Medicine - Mabel Dzata",
+		"practice": {
+			"phone": "(503) 472-0101",
+			"name": "Willamette Heart LLC",
+			"address": "2700 SE Stratus Ave Unit 403 McMinnville, OR 97128"
+		}
+	},
+	"7": {
+		"firstName": "Christian",
+		"lastName": "Slough",
+		"credentials": "M.D.",
+		"role": "Otolaryngology",
+		"photoURL": "http://d1ffafozi03i4l.cloudfront.net/img/prov/Y/J/M/YJMYP_w120h160_v3650.jpg",
+		"practice": {
+			"phone": "(503) 434-1110",
+			"name": "Willamette Valley Medical Center",
+			"address": "2700 SE Stratus Ave Unit 402 McMinnville, OR 97128"
+		}
+	},
+	"8": {
+		"firstName": "Luna",
+		"lastName": "Beck",
+		"credentials": "M.D.",
+		"role": "Internal Medicine",
+		"practice": {
+			"phone": "(352) 307-7940",
+			"address": "17820 SE 109th Ave Ste 107 Summerfield, FL 34491"
+		}
+	},
+	"9": {
+		"firstName": "Joseph",
+		"lastName": "Pratt",
+		"credentials": "M.D.",
+		"role": "Family Medicine",
+		"practice": {
+			"phone": "(662) 286-0088",
+			"address": "121 Pratt Drive Corinth, MS 38834 USA"
+		}
+	},
+	"10": {
+		"firstName": "Gary",
+		"lastName": "Nudell",
+		"credentials": "M.D.",
+		"role": "Internal Medicine",
+		"photoURL": "http://d1ffafozi03i4l.cloudfront.net/img/prov/Y/C/T/YCTFY_w120h160_v2635.jpg",
+		"practice": {
+			"phone": "(818) 676-4806",
+			"address": "23101 Sherman Pl Ste 510 West Hills, CA 91307"
+		}
+	},
+	"11": {
+		"firstName": "Paul",
+		"lastName": "Tritel",
+		"credentials": "M.D.",
+		"role": "Internal Medicine",
+		"practice": {
+			"phone": "(239) 936-1343",
+			"name": "Internal Medecine Associates",
+			"address": "13813 Metro Parkway Fort Myers, Florida   33912"
+		}
+	},
+	"12": {
+		"firstName": "Cindy",
+		"lastName": "Zughbi",
+		"credentials": "M.D.",
+		"role": "Family Medicine",
+		"practice": {
+			"phone": "(239) 936-1343",
+			"name": "Internal Medecine Associates",
+			"address": "13813 Metro Parkway Fort Myers, Florida   33912"
+		}
+	},
+	"13": {
+		"firstName": "Ike",
+		"lastName": "Stewart",
+		"credentials": "M.D.",
+		"role": "Family Medicine",
+		"practice": {
+			"phone": "(803) 773-5227",
+			"name": "Colonial Healthcare",
+			"address": "325 Broad Street Sumter, SC 29150"
+		}
+	},
+	"14": {
+		"firstName": "Carlos",
+		"lastName": "Soto",
+		"credentials": "M.D.",
+		"role": "Family Medicine",
+		"practice": {
+			"phone": "(803) 773-5227",
+			"name": "Colonial Healthcare",
+			"address": "325 Broad Street Sumter, SC 29150"
+		}
+	}
+}
