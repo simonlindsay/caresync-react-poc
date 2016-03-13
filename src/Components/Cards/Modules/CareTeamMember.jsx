@@ -1,5 +1,5 @@
 import React from 'react'
-import css from './CareTeamMember.css'
+import css from './CareTeamMember.scss'
 
 export default class CareTeamMember extends React.Component {
 

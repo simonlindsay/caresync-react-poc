@@ -1,7 +1,7 @@
 import React from 'react'
 import {Link} from 'react-router'
 
-import css from './GoalCard.css'
+import css from './GoalCard.scss'
 
 import Card from '../Helpers/CardContainer.jsx'
 
@@ -46,33 +46,33 @@ export default class GoalCard extends React.Component {
 
     return <Card className="goal" type="Goal" title={this.props.goal.title}>
 
-        <h1>Goal Card</h1>
+              <h1>Goal Card</h1>
 
-        <ul>
-          {[...this.props.goal.tasks].map((task, i) =>
-            <li key={i+1}>{task}</li>
-          )}
-        </ul>
+              <ul>
+                {[...this.props.goal.tasks].map((task, i) =>
+                  <li key={i+1}>{task}</li>
+                )}
+              </ul>
 
-        <div className="tracker">
-          <h3>
-            Tracker
-            <ul className="week">
-              {[...this.props.goal.tracker.week].map((day, i) =>
-                <li key={i+1} className={"day m-"+day}>{data.dayIndexes[i]}</li>
-              )}
-            </ul>
-          </h3>
+              <div className="tracker">
+                <h3>
+                  Tracker
+                  <ul className="week">
+                    {[...this.props.goal.tracker.week].map((day, i) =>
+                      <li key={i+1} className={"day m-"+day}>{data.dayIndexes[i]}</li>
+                    )}
+                  </ul>
+                </h3>
 
-          { this.props.goal.tracker.title }
+                { this.props.goal.tracker.title }
 
-          {measurementPartial}
+                {measurementPartial}
 
-          {actionPartial}
+                {actionPartial}
 
-        </div>
+              </div>
 
-    </Card>
+          </Card>
   }
 
 }

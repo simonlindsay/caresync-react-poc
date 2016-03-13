@@ -1,0 +1,31 @@
+.careteam {
+
+  .people {
+    list-style: none;
+    padding: 0;
+  }
+
+  .person {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    padding: 1em 0;
+    border-bottom: 1px solid #eee;
+    color: #818181;
+  }
+
+  .person:first-child {
+    padding-top: 0.5em;
+  }
+
+  .person:last-child {
+    border-bottom: 0;
+    padding-bottom: 0;
+  }
+
+  .person div p {
+    margin: 0
+  }
+
+
+}

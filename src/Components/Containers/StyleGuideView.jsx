@@ -1,6 +1,6 @@
 import React from 'react'
 import {Link} from 'react-router'
-import css from './StyleGuideView.css'
+import css from './StyleGuideView.scss'
 import members from '../../Data/members.json'
 import GoalCard from '../Cards/GoalCard.jsx'
 import CareTeamCard from '../Cards/CareTeamCard.jsx'
@@ -29,7 +29,9 @@ export default class StyleGuideView extends React.Component {
 
     var {member, goal, careteam, appointment} = this.state;
 
-    return <div>
+    return <div className="styleguide">
+
+            <main>
 
             <h1>Scenarios</h1>
 
@@ -76,7 +78,7 @@ export default class StyleGuideView extends React.Component {
               </div>
             </section>
 
-
+            </main>
           </div>
   }
 

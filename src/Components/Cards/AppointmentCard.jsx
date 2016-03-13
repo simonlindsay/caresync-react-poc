@@ -1,7 +1,7 @@
 import React from 'react'
 import {Link} from 'react-router'
 
-import css from './AppointmentCard.css'
+import css from './AppointmentCard.scss'
 
 import Card from '../Helpers/CardContainer.jsx'
 import CareTeamMember from './Modules/CareTeamMember.jsx'
@@ -43,7 +43,9 @@ export default class AppointmentCard extends React.Component {
 
     var ctaPartial = null;
     if(this.props.appointment.form==='Office Visit') {
-      ctaPartial = <button>Call Practice</button>;
+      ctaPartial = <div className="call-practice">
+                    <button>Call Practice</button>
+                  </div>
     }
 
     return <Card className="appointment" type="Upcoming Appointment" title={this.props.title}>

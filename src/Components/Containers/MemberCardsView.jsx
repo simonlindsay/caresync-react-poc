@@ -1,7 +1,7 @@
 import React from 'react'
 import {Link} from 'react-router'
 
-import css from './MemberCardsView.css';
+import css from './MemberCardsView.scss';
 
 // get components
 import CareTeamCard from '../Cards/CareTeamCard.jsx'
@@ -60,7 +60,7 @@ export default class MemberCardsView extends React.Component {
     //
     var data = this.data(memberId);
 
-    return <div>
+    return <div className="member-cards-view">
               <nav>
                 <ul>
                   <li><Link to='/'>Styleguide</Link></li>

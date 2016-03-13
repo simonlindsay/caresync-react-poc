@@ -7,7 +7,7 @@ export default class CardContainer extends React.Component {
     return <section className="card">
               <h2>{ this.props.type }</h2>
               <h1>{ this.props.title }</h1>
-              <div>{ this.props.children }</div>
+              <div className={this.props.className}>{ this.props.children }</div>
             </section>
   }
 

@@ -1,7 +1,7 @@
 import React from 'react'
 import {Link} from 'react-router'
 
-import css from './CareTeamCard.css';
+import css from './CareTeamCard.scss';
 
 import Card from '../Helpers/CardContainer.jsx'
 import CareTeamMember from './Modules/CareTeamMember.jsx';
