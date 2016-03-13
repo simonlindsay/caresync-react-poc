@@ -1,0 +1,35 @@
+main {
+  margin: 1em;
+}
+
+main section {
+  display: flex;
+  background: #F8F8F8;
+  padding: 1em;
+  margin: 1em;
+  position: relative;
+}
+
+section textarea {
+  min-height: 30em;
+  margin-bottom: 1em;
+  box-sizing: border-box;
+	width: 100%;
+  padding: 0.5em;
+  font-size: 0.8em;
+}
+
+section div {
+  align-self: center;
+  width: 50% !important;
+  vertical-align: middle;
+  padding: 0.5em;
+}
+
+section div:first-child {
+  align-self: flex-start;
+}
+
+.component {
+  vertical-align: middle;
+}
